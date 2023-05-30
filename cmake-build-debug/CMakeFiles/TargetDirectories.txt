@@ -1,0 +1,3 @@
+/home/zen/Desktop/C++/multithreaded-server/cmake-build-debug/CMakeFiles/multithreaded_server.dir
+/home/zen/Desktop/C++/multithreaded-server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zen/Desktop/C++/multithreaded-server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
